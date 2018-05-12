@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5584
     wikipedia: http://en.wikipedia.org/wiki/William_Douw_Lighthall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14590#A-New-Hochelagan-Burying-ground-Discovered-at-Westmount-on-the-Western-Spur-of-Mount-Royal-Mo_
 gutenberg_issued: '2005-01-04'
 gutenberg_type: Text
 identifiers:
